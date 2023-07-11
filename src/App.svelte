@@ -15,8 +15,8 @@
             <Col xs="6">
                 <div class="aStyle">
                     <h5 class="tittleStyle">
-                        <strong> Why <br /> Educate</strong>
-                        <span class="firstStyle"><b>First</b></span> ?
+                        <strong> Why <br /> Blockchain Based Voting </strong>
+                        <span class="firstStyle"><b>?</b></span> ?
                     </h5>
                     <p>
                         Lorem, ipsum dolor sit amet consectetur adipisicing
@@ -71,7 +71,7 @@
                         />
                     </Media>
                     <Media body class="ml-3">
-                        <Media heading>Pemateri</Media>
+                        <Media heading>Support</Media>
                         Cras sit amet nibh libero, in gravida nulla. Nulla vel metus
                         scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum
                         in vulputate at, tempus viverra turpis. Fusce condimentum
@@ -92,7 +92,7 @@
                         />
                     </Media>
                     <Media body class="ml-3">
-                        <Media heading>Kemitraan</Media>
+                        <Media heading>Documents Needed</Media>
                         Cras sit amet nibh libero, in gravida nulla. Nulla vel metus
                         scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum
                         in vulputate at, tempus viverra turpis. Fusce condimentum
@@ -113,7 +113,7 @@
                         />
                     </Media>
                     <Media body class="ml-3">
-                        <Media heading>Talks/Webinar</Media>
+                        <Media heading>Candidate Eligibility</Media>
                         Cras sit amet nibh libero, in gravida nulla. Nulla vel metus
                         scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum
                         in vulputate at, tempus viverra turpis. Fusce condimentum
@@ -134,7 +134,7 @@
                         />
                     </Media>
                     <Media body class="ml-3">
-                        <Media heading>Relasi</Media>
+                        <Media heading>Voter eligibility</Media>
                         Cras sit amet nibh libero, in gravida nulla. Nulla vel metus
                         scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum
                         in vulputate at, tempus viverra turpis. Fusce condimentum

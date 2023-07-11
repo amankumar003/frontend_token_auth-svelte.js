@@ -22,7 +22,7 @@
 </script>
 
 <Navbar color="primary" dark expand="md" class="fixed-top">
-    <NavbarBrand href="/" class="text-uppercase ">Educate App</NavbarBrand>
+    <NavbarBrand href="/" class="text-uppercase ">Web3 Voting</NavbarBrand>
     <NavbarToggler on:click={() => (isOpen = !isOpen)} />
     <Collapse {isOpen} navbar expand="md" on:update={handleUpdate}>
         <Nav class="ml-auto mr-5 py-2" navbar>

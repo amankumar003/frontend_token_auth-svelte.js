@@ -49,7 +49,7 @@
 
                 <ul class="list-unstyled  mb-0">
                     <li>
-                        <a href="#!" class="text-white">Link 1</a>
+                        <a href="#!" class="text-white">amankumar.er6174@gmail.com</a>
                     </li>
                     <li>
                         <a href="#!" class="text-white">Link 2</a>
@@ -70,8 +70,8 @@
 
     <!-- Copyright -->
     <div class="text-center p-3 footerStyle">
-        © {_tahun} Latihan:
-        <a class="text-white" href="https://svelte.dev/">Svelte.dev</a>
+        © {_tahun} Aman Kumar:
+        <a class="text-white" href="https://svelte.dev/">Voting Token</a>
     </div>
     <!-- Copyright -->
 </footer>
